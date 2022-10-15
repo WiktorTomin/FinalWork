@@ -1,0 +1,15 @@
+C:\Users\Виктор\Desktop\Итоги блока\ResultCourse\bin\Debug\net6.0\ResultCourse.exe
+C:\Users\Виктор\Desktop\Итоги блока\ResultCourse\bin\Debug\net6.0\ResultCourse.deps.json
+C:\Users\Виктор\Desktop\Итоги блока\ResultCourse\bin\Debug\net6.0\ResultCourse.runtimeconfig.json
+C:\Users\Виктор\Desktop\Итоги блока\ResultCourse\bin\Debug\net6.0\ResultCourse.dll
+C:\Users\Виктор\Desktop\Итоги блока\ResultCourse\bin\Debug\net6.0\ResultCourse.pdb
+C:\Users\Виктор\Desktop\Итоги блока\ResultCourse\obj\Debug\net6.0\ResultCourse.csproj.AssemblyReference.cache
+C:\Users\Виктор\Desktop\Итоги блока\ResultCourse\obj\Debug\net6.0\ResultCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктор\Desktop\Итоги блока\ResultCourse\obj\Debug\net6.0\ResultCourse.AssemblyInfoInputs.cache
+C:\Users\Виктор\Desktop\Итоги блока\ResultCourse\obj\Debug\net6.0\ResultCourse.AssemblyInfo.cs
+C:\Users\Виктор\Desktop\Итоги блока\ResultCourse\obj\Debug\net6.0\ResultCourse.csproj.CoreCompileInputs.cache
+C:\Users\Виктор\Desktop\Итоги блока\ResultCourse\obj\Debug\net6.0\ResultCourse.dll
+C:\Users\Виктор\Desktop\Итоги блока\ResultCourse\obj\Debug\net6.0\refint\ResultCourse.dll
+C:\Users\Виктор\Desktop\Итоги блока\ResultCourse\obj\Debug\net6.0\ResultCourse.pdb
+C:\Users\Виктор\Desktop\Итоги блока\ResultCourse\obj\Debug\net6.0\ResultCourse.genruntimeconfig.cache
+C:\Users\Виктор\Desktop\Итоги блока\ResultCourse\obj\Debug\net6.0\ref\ResultCourse.dll
