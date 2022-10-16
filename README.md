@@ -18,3 +18,28 @@
 Если строка удовлетворяет условию, кладем значение в новый массив Y.
 Повторяем пункты 2 и 3 до тех пор, пока не достигнем конца исходного массива X.
 Возвращаем новый заполненый массив Y как результат.
+
+string[] arrayX = new string[] {"hello", "2", "world", ":)"};
+string[] arrayY = new string[arrayX.Length];
+void GetArray(string[] arrayX, string[] arrayY)
+{
+    int count = 0;
+    for (int i = 0; i < arrayX.Length; i++)
+    {
+    if(arrayX[i].Length <= 3)
+        {
+        arrayY[count] = arrayX[i];
+        count++;
+        }
+    }
+}
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+    Console.WriteLine();
+}
+GetArray(arrayX, arrayY);
+PrintArray(arrayY);
